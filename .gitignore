@@ -1,3 +1,14 @@
 .ipynb_checkpoints/
+*/.ipynb_checkpoints/*
 __pycache__/
+*.py[cod]
+*.class
 *.pyc
+.env
+.venv
+env/
+venv/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
